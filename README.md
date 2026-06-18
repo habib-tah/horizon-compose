@@ -8,9 +8,10 @@ A modern Android knowledge and discovery application built with Jetpack Compose.
 Horizon presents carefully curated articles across Science, History, Travel, Culture, and Technology in a clean and adaptive reading experience.
 
 </div>
----
 
 ## Screenshots
+
+---
 
 ### Light Theme
 
@@ -20,9 +21,8 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 
 ![Horizon Dark Theme](screenshots/horizon-overview-dark.png)
 
----
-
 ## Features
+---
 
 * Adaptive layouts for phones and tablets
 * Material 3 design
@@ -35,9 +35,9 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 * ViewModel and UI testing
 * Responsive reading experience
 
----
-
 ## Demo Videos
+
+---
 
 ### Phone Demo
 
@@ -47,9 +47,9 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 
 [Tablet Demo](demo/Horizon-Tablet-Demo.mp4)
 
----
-
 ## Tech Stack
+
+---
 
 * Kotlin
 * Jetpack Compose
@@ -62,9 +62,9 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 * JUnit
 * Compose UI Testing
 
----
-
 ## Architecture
+
+---
 
 Horizon follows a layered architecture:
 
@@ -78,15 +78,15 @@ Repository Layer
 
 State is managed using StateFlow and exposed to the UI through ViewModels.
 
----
-
 ## Inspiration
+
+---
 
 This project was built as a portfolio-focused learning project and was inspired by Google's JetNews sample application. The implementation, content catalog, branding, adaptive layouts, testing strategy, and overall user experience were redesigned and expanded as part of the learning process.
 
----
-
 ## Adaptive Layout
+
+---
 
 ### Phone Layout
 
@@ -98,18 +98,18 @@ This project was built as a portfolio-focused learning project and was inspired 
 - Home and article content displayed side-by-side
 - Uses an adaptive master-detail layout
 
----
-
 ## Testing
+
+---
 
 * HomeViewModel tests
 * Repository tests
 * Compose UI tests
 * Navigation tests
 
----
-
 ## Release APK
+
+---
 
 A release build of the application (APK) is included in:
 
