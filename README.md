@@ -11,8 +11,6 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 
 ## Screenshots
 
----
-
 ### Light Theme
 
 ![Horizon Light Theme](screenshots/horizon-overview-light.png)
@@ -22,7 +20,6 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 ![Horizon Dark Theme](screenshots/horizon-overview-dark.png)
 
 ## Features
----
 
 * Adaptive layouts for phones and tablets
 * Material 3 design
@@ -37,19 +34,15 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 
 ## Demo Videos
 
----
-
 ### Phone Demo
 
-[Phone Demo](demo/Horizon-Phone-Demo.mp4)
+https://github.com/user-attachments/assets/c3bd38bf-7ba9-4e8b-b469-e408eaf303fb
 
 ### Tablet Demo
 
-[Tablet Demo](demo/Horizon-Tablet-Demo.mp4)
+https://github.com/user-attachments/assets/c28c277c-2827-439c-87d0-b675f87e9a84
 
 ## Tech Stack
-
----
 
 * Kotlin
 * Jetpack Compose
@@ -63,8 +56,6 @@ Horizon presents carefully curated articles across Science, History, Travel, Cul
 * Compose UI Testing
 
 ## Architecture
-
----
 
 Horizon follows a layered architecture:
 
@@ -80,13 +71,9 @@ State is managed using StateFlow and exposed to the UI through ViewModels.
 
 ## Inspiration
 
----
-
 This project was built as a portfolio-focused learning project and was inspired by Google's JetNews sample application. The implementation, content catalog, branding, adaptive layouts, testing strategy, and overall user experience were redesigned and expanded as part of the learning process.
 
 ## Adaptive Layout
-
----
 
 ### Phone Layout
 
@@ -100,16 +87,12 @@ This project was built as a portfolio-focused learning project and was inspired 
 
 ## Testing
 
----
-
 * HomeViewModel tests
 * Repository tests
 * Compose UI tests
 * Navigation tests
 
 ## Release APK
-
----
 
 A release build of the application (APK) is included in:
 
