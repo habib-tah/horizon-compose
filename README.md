@@ -1,6 +1,5 @@
 <div align="center">
 <img src="assets/horizon-logo.png" width="140" alt="Horizon Logo"/>
-</div>
 
 # Horizon
 
@@ -8,6 +7,7 @@ A modern Android knowledge and discovery application built with Jetpack Compose.
 
 Horizon presents carefully curated articles across Science, History, Travel, Culture, and Technology in a clean and adaptive reading experience.
 
+</div>
 ---
 
 ## Screenshots
