@@ -1,5 +1,6 @@
 <div align="center">
 <img src="assets/horizon-logo.png" width="140" alt="Horizon Logo"/>
+</div>
 
 # Horizon
 
