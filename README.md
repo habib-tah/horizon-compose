@@ -94,6 +94,8 @@ This project was built as a portfolio-focused learning project and was inspired 
 
 ## Release APK
 
-A release build of the application (APK) is included in:
+Download the latest Android release:
 
-`release/Horizon-v1.0.apk`
+[Download Horizon v1.0.0](https://github.com/habib-tah/horizon-compose/releases/download/v1.0.0/Horizon-v1.0.apk)
+
+For release notes and other release information, see the [Releases](https://github.com/habib-tah/horizon-compose/releases) page.
